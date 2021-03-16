@@ -1,6 +1,6 @@
 # Tiny Recorder - Voice Recorder by Kwaso
 
-Hello and welcome to the Github page dedicated to Tiny Recorder. Before we do anything else, here's the privacy policy for you paranoid ones.
+Hello and welcome to the Github page dedicated to Tiny Recorder. Before we do anything else, here's the privacy policy for the paranoid ones.
 
 ## Privacy Policy
 I, **Tarique Ali Mirza**, referred to as **Creator**, built the Tiny Recorder - Voice Recorder by Kwaso, referred to as the **Application**, as a Free to use Android App. This **Application** is provided by the Creator at **no cost and is intended for use as is**.
