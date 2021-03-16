@@ -31,10 +31,9 @@ Cookies are files with a small amount of data that are commonly used as anonymou
 This **Application** does not use any “cookies”.
 
 ### Security
-
 I am not collecting any information or data that can pose a security risk to my users. The audio files remain on your device, Tiny Recorder - Voice Recorder by Kwaso does not even connect to the internet!
 
-Links to Other Sites
+### Links to Other Sites
 
 The **Application** does not contain links to any sites.
 
